@@ -1,4 +1,10 @@
-## Stingy Teacher
+## Sparse Logits Suffice to Fail Knowledge Distillation
+
+["Sparse Logits Suffice to Fail Knowledge Distillation"](https://openreview.net/pdf?id=BxZgduuNDl5)     
+
+Haoyu Ma, Yifan Huang, Hao Tang, Chenyu You, Deying Kong, Xiaohui Xie  
+In ICLR 2022 Workshop [PAIR^2Struct](https://pair2struct-workshop.github.io/)
+   
 
 
 ## Prerequisite
