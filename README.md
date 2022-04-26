@@ -1,4 +1,4 @@
-## Sparse Logits Suffice to Fail Knowledge Distillation
+# Sparse Logits Suffice to Fail Knowledge Distillation
 
 ["Sparse Logits Suffice to Fail Knowledge Distillation"](https://openreview.net/pdf?id=BxZgduuNDl5)     
 
