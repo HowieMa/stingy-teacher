@@ -5,6 +5,7 @@
 Haoyu Ma, Yifan Huang, Hao Tang, Chenyu You, Deying Kong, Xiaohui Xie  
 In ICLR 2022 Workshop [PAIR^2Struct](https://pair2struct-workshop.github.io/)
    
+This is an extension of the "nasty teacher" from the ICLR 2021 paper ["Undistillable: Making A Nasty Teacher That CANNOT teach students"](https://openreview.net/forum?id=0zvfm-nZqQs)
 
 
 ## Prerequisite
@@ -44,6 +45,15 @@ python train_kd_stingy.py --save_path experiments/CIFAR100/kd_stingy_resnet18/sh
 If you find our code helps your research, please cite the paper:
 
 ~~~
+@inproceedings{
+ma2021undistillable,
+title={Undistillable: Making A Nasty Teacher That {\{}CANNOT{\}} teach students},
+author={Haoyu Ma and Tianlong Chen and Ting-Kuei Hu and Chenyu You and Xiaohui Xie and Zhangyang Wang},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=0zvfm-nZqQs}
+}
+
 @inproceedings{
 ma2022sparse,
 title={Sparse Logits Suffice to Fail Knowledge Distillation},
